@@ -1,3 +1,4 @@
+source('msaprint.R')
 library(Biostrings)
 
 plotFastaAln2Pdf <- function(fasta.path = filepath, 
